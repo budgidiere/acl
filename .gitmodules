@@ -7,5 +7,5 @@
 	url = https://github.com/catchorg/Catch2
 [submodule "external/rtm"]
 	path = external/rtm
-	url = https://github.com/nfrechette/rtm.git
+	url = https://github.com/budgidiere/rtm.git
 	branch = develop
